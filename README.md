@@ -15,4 +15,5 @@
 
 
 
-## Acknowledgement: This repository is exclusively designated for the course project of UIUC CS466 (Fall 2024). All work within this repository is done for academic and exercise purposes only. By grading this project, the faculty fully approves the legality of the repository. The authors assume no warranty or legal responsibility for its use. Except for the course project development and grading, no other use is permitted. This repository may be removed after the semester concludes.
+## Acknowledgement
+**This repository is exclusively designated for the course project of UIUC CS466 (Fall 2024). All work within this repository is done for academic and exercise purposes only. By grading this project, the faculty fully approves the legality of the repository. The authors assume no warranty or legal responsibility for its use. Except for the course project development and grading, no other use is permitted. This repository may be removed after the semester concludes.**
